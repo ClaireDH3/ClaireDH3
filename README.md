@@ -14,8 +14,8 @@ Currently in the third year of a bachelor's degree in computer science at the Un
 
 ```
 Links to some projects:
-- [Supplier-client web application](https://github.com/EliotBD03/Projet-Gl-)
 ```
+- [Supplier-client web application](https://github.com/EliotBD03/Projet-Gl-)
 
 ![](chemin/vers/po.png)
 
