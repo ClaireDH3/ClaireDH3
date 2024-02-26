@@ -15,7 +15,7 @@ Currently in the ✨third year✨ of a bachelor's degree in computer science at 
 ```
 🤔 Links to some projects:
 ```
-- [Supplier-client web application](https://github.com/EliotBD03/Projet-Gl-)
+- [Supplier-client web application](https://github.com/EliotBD03/Projet-Gl-) (in the second Bachelor's degree)
 - Work in progress
 - ...
 
