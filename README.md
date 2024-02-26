@@ -17,9 +17,7 @@ Links to some projects:
 - [Supplier-client web application](https://github.com/EliotBD03/Projet-Gl-)
 ```
 
-```
 ![](chemin/vers/po.png)
-```
 
 
 <!--
