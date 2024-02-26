@@ -1,10 +1,10 @@
 ### Hello everyone! 🤪
 
 ```
-Currently in the third year of a bachelor's degree in computer science at the University of Mons.
+Currently in the ✨third year✨ of a bachelor's degree in computer science at the University of Mons.
 ```
 
-> Learning:
+> 🌱Learning:
 > - Python
 > - Java
 > - MySQL
@@ -13,24 +13,9 @@ Currently in the third year of a bachelor's degree in computer science at the Un
 > - ...
 
 ```
-Links to some projects:
+🤔 Links to some projects:
 ```
 - [Supplier-client web application](https://github.com/EliotBD03/Projet-Gl-)
+- Work in progress
 
 ![](po.png)
-
-
-<!--
-**ClaireDH3/ClaireDH3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
