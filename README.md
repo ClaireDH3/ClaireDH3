@@ -1,4 +1,4 @@
-### Hello everyone! 🤪
+### Hello everyone! 😃
 
 ```
 Currently in ✨fourth year✨ of a five-year master's degree in computer science at the University of Mons.
