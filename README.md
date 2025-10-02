@@ -1,7 +1,7 @@
 ### Hello everyone! 😃
 
 ```
-Currently in ✨fourth year✨ of a five-year master's degree in computer science at the University of Mons.
+Currently in ✨fifth year✨ of a five-year master's degree in computer science at the University of Mons.
 ```
 
 > 🌱Learning:
